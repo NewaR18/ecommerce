@@ -1,0 +1,44 @@
+#head{
+    color:#012970;
+    text-align: center;
+}
+#left{
+    height:850px;
+    background-color:#012970;
+    padding:100px;
+    color:white;
+}
+.mid{
+    text-align: center;
+    padding:2%;
+   
+}
+.submit1{
+    color: white;
+}
+.right{
+    display:inline-block;
+}
+.submit1{
+    width:50%;
+    font-weight:bold;
+    font-size:18px;
+    background-color: #012970;
+}
+#head{
+    color: black;
+}
+.mid2{
+    font-weight: 500px;
+    color:black;
+}
+.block{
+    display:block;
+}
+.hell{
+    width:350px;
+    height:300px;
+    padding:25px;
+    background-color:#012970;
+    color: white;
+}
